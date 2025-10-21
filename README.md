@@ -1,5 +1,7 @@
 # TodoList TypeScript
 
+## LIEN
+ =>https://todolist-type-script.netlify.app/ 
 ## Aperçu
 J’ai développé cette petite Todo List pour pratiquer un flux React moderne avec TypeScript, Vite et Tailwind CSS 4. L’idée est d’offrir un formulaire simple pour saisir mes tâches et de les afficher immédiatement dans un tableau élégant propulsé par DaisyUI.
 
